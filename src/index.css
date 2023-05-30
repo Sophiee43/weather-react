@@ -11,3 +11,11 @@ h2 {
 form {
   text-align: center;
 }
+a{
+  text-decoration: none;
+  color: orange;
+}
+footer{
+  text-align: center;
+}
+
