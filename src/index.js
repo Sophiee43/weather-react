@@ -11,7 +11,6 @@ root.render(
     <div>
       <h1>Weather Search Engine</h1>
       <App />
-      <h2 id="show-weather"></h2>
       <footer>
     <a href="https://github.com/Sophiee43/weather-react.git">Open Source Code</a>,by Sophie
     </footer>
